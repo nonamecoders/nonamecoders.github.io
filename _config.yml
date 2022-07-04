@@ -55,6 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   SpringBoot 기반 카카오톡 주문하기 (브랜드/매장/제품/주문 등 API), 결제 페이지 개발/운영 했습니다.
 
   효율적인 업무를 지향하여 퇴근 후에도 집에서 모니터링을 하는 경우가 많아 어드민으로 처리할 수 있게 백오피스 개발하여 업무를 단순화하였습니다.
+
   팀원과의 소통을 중요하게 생각합니다. 좋은 피드백은 좋은 서비스로 이어질 수 있다고 생각하기에 적극적으로 소통하려고 노력합니다.  
   팀을 위해 개발하는, 그로인해 보람을 느끼는 개발자입니다. 
 
@@ -84,6 +85,9 @@ content:
           * E쿠폰 API 개발 및 주문연동(스마트콘, 기프티쇼, SPC 섹타나인등)
           * 좌표계 변환 (utm-k, wgs86, kateck 등) 및 카카오 주문하기 상권 연동 개발
           * 로그 수집 및 시각화 모니터링 ELK 구축 (logstash -> filebeat 사용)
+            
+          
+
       - layout: left
         sub_title: 카카오톡 주문하기 </br> 고객센터 사이트 운영/개발
         caption: 2020.01 ~ 2022.03
@@ -137,7 +141,7 @@ content:
         # quote: >
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          * JAVA,Spring, SpringBoot
+          * Java, Spring, SpringBoot
           * Mybatis, JPA
           * Gradle, Maven
       - layout: top-left
@@ -147,7 +151,7 @@ content:
         # quote: >
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          * Javascript, JQuery ES6
+          * Javascript, JQuery, ES6
           * Ajax
       - layout: top-left
         title: DevOps
@@ -156,7 +160,7 @@ content:
         # quote: >
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          * MSSQL, Redis
+          * SQL Server(MS-SQL), Redis
           * Jenkins, Tomcat, Window Server
           * ElasticSearch, Kibana
   - title: Experience
@@ -180,12 +184,11 @@ content:
         #   카카오톡 주문하기 브랜드/제품/매장/주문 API,결제페이지 운영/개발
         description: | # this will include new lines to allow paragraphs
           
-  - title: todo
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      ## 1일 1커밋을 목표로 꾸준하게 개발하려고 합니다.  
-      ## 마이바티스 사용했던 경험을 JPA에 녹이는 중이고, CS 공부를 병행하고있습니다.  
-      ## 성장하려는 욕심을 가지고 역량을 키워 더 좋은 서비스를 만드는게 목표입니다.  
+  # - title: todo
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     ## 마이바티스 사용했던 경험을 JPA에 녹이는 중이고, CS 공부를 병행하고있습니다.  
+  #     ## 성장하려는 욕심을 가지고 역량을 키워 더 좋은 서비스를 만드는게 목표입니다.  
       
       
 
