@@ -192,18 +192,24 @@ content:
         # quote: >
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          * Javascript, JQuery, ES6
-          * Ajax
+          * Javascript, JQuery
+          * Ajax, Fetch
       - layout: top-left
-        title: DevOps
-        # sub_title: Qualifications (eg. BA Performing Arts)
-        # caption: Date Range (eg. 2016 - 2019)
-        # quote: >
-        #   Short institution or course description (optional)
+        title: Database
         description: | # this will include new lines to allow paragraphs
           * SQL Server(MS-SQL), Redis
-          * Jenkins, Tomcat, Window Server
-          * ElasticSearch, Kibana
+      - layout: top-left
+        title: CI/CD
+        description: | # this will include new lines to allow paragraphs
+          * Jenkins, GitLab, Docker, Nexus
+      - layout: top-left
+        title: Server
+        description: | # this will include new lines to allow paragraphs
+          * Tomcat, Windows Server, Linux
+      - layout: top-left
+        title: Monitoring
+        description: | # this will include new lines to allow paragraphs
+          * ElasticSearch, Kibana, Logstash
   - title: Experience
     layout: list
     content:
@@ -223,13 +229,7 @@ content:
         # link: Link to company (optional)
         # quote: >
         #   카카오톡 주문하기 브랜드/제품/매장/주문 API,결제페이지 운영/개발
-        description: | # this will include new lines to allow paragraphs
-          
-  # - title: todo
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     ## 마이바티스 사용했던 경험을 JPA에 녹이는 중이고, CS 공부를 병행하고있습니다.  
-  #     ## 성장하려는 욕심을 가지고 역량을 키워 더 좋은 서비스를 만드는게 목표입니다.  
+        description: | # this will include new lines to allow paragraphs  
       
       
 
