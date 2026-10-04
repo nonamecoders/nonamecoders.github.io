@@ -57,15 +57,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   동료들과 편하게 의견을 나누고 함께 문제를 해결하는 과정을 중요하게 생각합니다.
 
-  **핵심 역량**
-
-  * Java/Spring 기반 주문·결제·정산 서비스 개발·운영
-  * 은행·카드사별 금융 전문 생성·송수신 로직을 공통 인터페이스와 기관별 구현체로 분리
-  * 대량 데이터 처리 병목 분석 및 배치 성능 개선
-  * .NET Framework 시스템의 Java/Spring Boot 전환과 중복 로직의 공통 모듈화
-  * Elastic Stack 기반 거래 로그 수집 및 모니터링 환경 구축
-  * 배포 자동화 파이프라인 및 Docker 기반 컨테이너 배포 환경 구축
-
 # <mark>테스트</mark>입니다.
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -76,6 +67,16 @@ about_content: | # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Core Competencies
+    layout: text
+    content: |
+      * Java/Spring 기반 주문·결제·정산 서비스 개발·운영
+      * 은행·카드사별 금융 전문 생성·송수신 로직을 공통 인터페이스와 기관별 구현체로 분리
+      * 대량 데이터 처리 병목 분석 및 배치 성능 개선
+      * .NET Framework 시스템의 Java/Spring Boot 전환과 중복 로직의 공통 모듈화
+      * Elastic Stack 기반 거래 로그 수집 및 모니터링 환경 구축
+      * 배포 자동화 파이프라인 및 Docker 기반 컨테이너 배포 환경 구축
+
   - title: Career
     layout: list
     content:
