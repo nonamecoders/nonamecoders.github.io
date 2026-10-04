@@ -278,4 +278,7 @@ exclude : [
   "lib/",
   "scripts/",
   "docker-compose.yml",
+  "README.md",
+  "LICENSE",
+  "modern-resume-theme.gemspec",
   ]
